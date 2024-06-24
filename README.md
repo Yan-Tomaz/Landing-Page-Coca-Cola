@@ -1,3 +1,3 @@
 # Landing-Page-Coca-Cola
 
-# Ola estou aprendendo a usar o GitHub Desktop
+# Aprdndi a usar o commit, push e a clonar projetos
